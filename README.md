@@ -3,6 +3,8 @@
 
 Clich Here
 https://samyvishnu.github.io/ntn-standardized-sky/
+
+
 🛰️ I spent 18 years managing telecom programs. Then I built an infographic to explain why the next 5 years will be different from everything before.
 In 5G NR NTN, 3GPP did something that sounds simple but took years of standards work to achieve:
 They made satellite connectivity speak the same language as your smartphone.
@@ -18,4 +20,12 @@ The race now is execution.
 
 
 
-#5G #NTN #NonTerrestrialNetworks #SatelliteConnectivity #3GPP #Telecom #NetworkEngineering #IoT #DirectToDevice #ProgramManagement
+#5G 
+#NTN 
+#NonTerrestrialNetworks 
+#SatelliteConnectivity 
+#3GPP #Telecom 
+#NetworkEngineering 
+#IoT 
+#DirectToDevice 
+#ProgramManagement
